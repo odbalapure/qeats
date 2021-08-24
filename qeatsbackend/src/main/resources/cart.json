@@ -1,0 +1,21 @@
+{
+    "cart": {
+      "id": "1",
+      "items": [
+        {
+          "attributes": [
+            "South Indian"
+          ],
+          "id": "1",
+          "imageUrl": "www.google.com",
+          "itemId": "10",
+          "name": "Idly",
+          "price": 45
+        }
+      ],
+      "restaurantId": "11",
+      "total": 45,
+      "userId": "arun"
+     },
+     "cartResponseType": 0
+}

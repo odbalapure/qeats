@@ -1,0 +1,85 @@
+{
+    "restaurantId" : "18471268",
+    "items" : [
+            {
+                    "itemId" : "USQRCI319E",
+                    "name" : "American Smokey Sausage Wrap",
+                    "imageUrl" : "",
+                    "price" : 670,
+                    "attributes" : [
+                            "Spicy",
+                            "Salty"
+                    ]
+            },
+            {
+                    "itemId" : "UL3NQ8Q9RV",
+                    "name" : "Makhani Falafel Wrap",
+                    "imageUrl" : "",
+                    "price" : 473,
+                    "attributes" : [
+                            "Sweet",
+                            "Tasty"
+                    ]
+            },
+            {
+                    "itemId" : "FEPT9FBLJJ",
+                    "name" : "Mutton Overload Wrap",
+                    "imageUrl" : "",
+                    "price" : 344,
+                    "attributes" : [
+                            "Popular",
+                            "Spicy"
+                    ]
+            },
+            {
+                    "itemId" : "FSBUH9MBDQ",
+                    "name" : "Mac & Cheese Chicken Wrap",
+                    "imageUrl" : "",
+                    "price" : 378,
+                    "attributes" : [
+                            "Gravy",
+                            "Tasty"
+                    ]
+            },
+            {
+                    "itemId" : "B6TUOJPN76",
+                    "name" : "Mac & Cheese Veg Wrap",
+                    "imageUrl" : "",
+                    "price" : 283,
+                    "attributes" : [
+                            "Tasty",
+                            "Savory"
+                    ]
+            },
+            {
+                    "itemId" : "ON3PEJM6A9",
+                    "name" : "Barbeque Chicken Wrap",
+                    "imageUrl" : "",
+                    "price" : 307,
+                    "attributes" : [
+                            "Popular",
+                            "Savory"
+                    ]
+            },
+            {
+                    "itemId" : "L3BSPLOYKK",
+                    "name" : "Mutton Boti Wrap",
+                    "imageUrl" : "",
+                    "price" : 343,
+                    "attributes" : [
+                            "Salty",
+                            "Gravy"
+                    ]
+            },
+            {
+                    "itemId" : "2PRTLCA5HE",
+                    "name" : "Masala Paneer Tikka Wrap",
+                    "imageUrl" : "",
+                    "price" : 527,
+                    "attributes" : [
+                            "Tasty",
+                            "Savory"
+                    ]
+            }
+    ]
+}
